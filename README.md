@@ -4,6 +4,7 @@ O projeto de despertador digital é uma aplicação web simples que permite aos 
 A implementação utiliza HTML para a estrutura, CSS para o estilo e JavaScript para a funcionalidade.
 
 Estrutura dos Arquivos
+
 index.html
 styles.css
 script.js
