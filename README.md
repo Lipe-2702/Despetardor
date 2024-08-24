@@ -1,4 +1,5 @@
-Visão Geral
+Visão Geral,
+
 O projeto de despertador digital é uma aplicação web simples que permite aos usuários definir um horário para o alarme e receber um aviso sonoro quando o horário definido chegar.
 A implementação utiliza HTML para a estrutura, CSS para o estilo e JavaScript para a funcionalidade.
 
